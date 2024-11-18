@@ -1,0 +1,10 @@
+nyc_data:
+  folder_path: data
+datalake:
+  endpoint:  localhost:9000
+  bucket_name_1: raw
+  bucket_name_2: processed
+  bucket_name_3: sandbox
+  folder_name: batch
+  access_key: benminh1201
+  secret_key: benminh1201

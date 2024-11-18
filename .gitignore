@@ -1,0 +1,12 @@
+**/__pycache__/
+
+/data/*
+/jars/*
+**/logs/
+test.py
+/airflow/logs/*
+.env
+.vscode/
+data/
+trino/
+jars/
